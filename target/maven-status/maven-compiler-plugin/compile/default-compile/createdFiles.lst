@@ -1,0 +1,13 @@
+com\springMVCTutorial\dao\GenericDAO.class
+com\springMVCTutorial\dao\BookDAOImpl.class
+com\springMVCTutorial\controller\HelloWorldController.class
+com\springMVCTutorial\hibernate\HibernateUtils.class
+com\springMVCTutorial\business\BookBusiness.class
+com\springMVCTutorial\dao\GenericDAOImpl.class
+com\springMVCTutorial\service\GenericService.class
+com\springMVCTutorial\config\PersistenceJPAConfig.class
+com\springMVCTutorial\hibernate\Book.class
+com\springMVCTutorial\exception\ApplicationException.class
+com\springMVCTutorial\hibernate\BookManager.class
+com\springMVCTutorial\service\BookService.class
+com\springMVCTutorial\dao\IBookDAO.class
