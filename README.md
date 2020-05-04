@@ -1,4 +1,4 @@
-# springMVCTutorial
+# springMVC
 
 CREATE DATABASE 'bookstore';
 USE 'bookstore';
