@@ -1,4 +1,4 @@
-# springMVC
+# MVC App
 
 CREATE DATABASE 'bookstore';
 USE 'bookstore';
